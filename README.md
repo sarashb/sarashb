@@ -1,3 +1,4 @@
+
 ## Hello World 👋
 
 
@@ -10,8 +11,17 @@ My name is Sara, and I am from Brazil 🇧🇷.
 - ◻️ [Blog](instagram.com/codebysara/)
 - 😄 Pronouns: she/her
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarashb&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sarashb&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
+  
+  [ ](https://komarev.com/ghpvc/?username=sarashb&color=blue&style=flat)
 
-<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarashb&hide=html&layout=compact&theme=buefy" />  
-<td><img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=sarashb&theme=buefy"/>  
+
 
 
