@@ -1,6 +1,6 @@
 
 ## Hello World 👋
-
+[](https://komarev.com/ghpvc/?username=sarashb&color=blue&style=flat)
 
 My name is Sara, and I am from Brazil 🇧🇷.
 
@@ -20,7 +20,7 @@ My name is Sara, and I am from Brazil 🇧🇷.
 </table>
 </center>  
   
-  [ ](https://komarev.com/ghpvc/?username=sarashb&color=blue&style=flat)
+
 
 
 
